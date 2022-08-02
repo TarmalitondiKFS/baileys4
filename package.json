@@ -1,0 +1,30 @@
+{
+    "name": "baileys4",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "typescript": "^4.7.3"
+    },
+    "dependencies": {
+        "@adiwajshing/baileys": "^4.1.0",
+        "@tensorflow-models/coco-ssd": "^2.2.2",
+        "@tensorflow/tfjs": "^3.18.0",
+        "@tensorflow/tfjs-node": "^3.18.0",
+        "base64-stream": "^1.0.0",
+        "canvas": "^2.9.1",
+        "concat-stream": "^2.0.0",
+        "firebase": "^9.8.2",
+        "fs": "^0.0.1-security",
+        "link-preview-js": "^2.1.15",
+        "node-webpmux": "^3.1.1",
+        "pino": "^8.0.0",
+        "wa-sticker-formatter": "^4.3.2"
+    }
+}
